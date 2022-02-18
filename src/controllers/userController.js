@@ -8,7 +8,7 @@ const aws = require("aws-sdk");
 aws.config.update({
     accessKeyId: "AKIAY3L35MCRRMC6253G",
     secretAccessKey: "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",
-    region: "ap-south-1"
+    region: "ap-south-1"                      // nearest region
 });
 
 
